@@ -30,7 +30,7 @@ ChatGPT：
 | conteúdo | Faça um texto para ebook, com foco em CSS, listando os principais atalhos do vscode com exemplos {REGRAS} Explique sempre de uma maneira simples, deixe o texto enxuto, sempre traga exemplos de código em contextos reais, sempre deixe um título sugestivo por tópico |
 
 
-Midjourney：
+Bing：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
